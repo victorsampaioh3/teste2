@@ -1,31 +1,88 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV AO VIVO",Canal Demo Principal
+#EXTINF:-1 group-title="TV AO VIVO",📺 Canal HD
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 group-title="TV AO VIVO",Akamai Test Channel
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARIOS",Apple BipBop
+#EXTINF:-1 group-title="TV AO VIVO",📺 Canal Premium
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS",Apple fMP4 Demo
+#EXTINF:-1 group-title="TV AO VIVO",📺 Canal Max
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
-#EXTINF:-1 group-title="FILMES",Becoming You
-https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
-
-#EXTINF:-1 group-title="FILMES",Tears of Steel
+#EXTINF:-1 group-title="TV AO VIVO",📺 Canal Family
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Skate Phantom Flex
+#EXTINF:-1 group-title="TV AO VIVO",📺 Canal Plus
 https://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Sintel HLS
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 group-title="FILMES",🎬 Cinema Plus
+https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
 
-#EXTINF:-1 group-title="MUSICA",Canal Música Demo 1
+#EXTINF:-1 group-title="FILMES",🎬 Cinema Action
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 group-title="FILMES",🎬 Cinema Hits
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+
+#EXTINF:-1 group-title="FILMES",🎬 Cinema Max
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="FILMES",🎬 Cinema HD
+https://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
+
+#EXTINF:-1 group-title="SERIES",📺 Série A
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 group-title="SERIES",📺 Série B
+https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
+
+#EXTINF:-1 group-title="SERIES",📺 Série C
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="SERIES",📺 Série D
+https://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",⚽ Arena Sports
+https://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",⚽ Sports Max
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",⚽ Futebol HD
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",⚽ Esporte Total
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",🎵 Music Hits
 https://stream-akamai.castr.com/5b9352dbda7b8c769937e459/live_2361c920455111ea85db6911fe397b9e/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="MUSICA",Canal Música Demo 2
-https://stream-fastly.castr.com/5b9352dbda7b8c769937e459/live_2361c920455111ea85db6911fe397b9e/index.fmp4.m3u8
+#EXTINF:-1 group-title="MUSICA",🎵 Music Gold
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="MUSICA",🎵 Music Mix
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 group-title="MUSICA",🎵 Music Live
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARIOS",🌎 Discovery Demo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARIOS",🌎 Nature HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARIOS",🌎 Mundo HD
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARIOS",🌎 Travel Demo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
+
+#EXTINF:-1 group-title="INFANTIL",👶 Kids HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="INFANTIL",👶 Kids Plus
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 group-title="INFANTIL",👶 Cartoon Demo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
