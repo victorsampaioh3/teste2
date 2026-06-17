@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="demo1" tvg-name="Canal de Teste HD" group-title="📺 TV Ao Vivo",Canal de Teste HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="demo2" tvg-name="Canal Demo 2" group-title="📺 TV Ao Vivo",Canal Demo 2
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+
+#EXTINF:-1 tvg-id="music1" tvg-name="Música 24h" group-title="🎵 Música",Música 24h
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="sport1" tvg-name="Esportes Demo" group-title="⚽ Esportes",Esportes Demo
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="movie1" tvg-name="Filme Demo" group-title="🎬 Filmes",Filme Demo
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4
