@@ -1,37 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV AO VIVO",Canal Demo HD
+#EXTINF:-1 group-title="TV AO VIVO",Canal HD Demo
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 group-title="TV AO VIVO",Canal Demo 2
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Music TV Demo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Clipes Demo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Esportes 24h Demo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Arena Demo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="TV AO VIVO",Canal 4K Demo
+https://test-streams.mux.dev/test_001/stream.m3u8
 
 #EXTINF:-1 group-title="FILMES",Big Buck Bunny
 https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4
 
-#EXTINF:-1 group-title="FILMES",Filme Demo 2
-https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4
+#EXTINF:-1 group-title="FILMES",Big Buck Bunny HD
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
-#EXTINF:-1 group-title="DOCUMENTARIOS",Natureza Demo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="FILMES",Elephants Dream
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
 
-#EXTINF:-1 group-title="DOCUMENTARIOS",Viagem Demo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="DOCUMENTARIOS",For Bigger Blazes
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
 
-#EXTINF:-1 group-title="INFANTIL",Kids Demo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="DOCUMENTARIOS",For Bigger Escape
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscape.mp4
 
-#EXTINF:-1 group-title="INFANTIL",Desenhos Demo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="ESPORTES",For Bigger Fun
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
+
+#EXTINF:-1 group-title="ESPORTES",For Bigger Joyrides
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+
+#EXTINF:-1 group-title="MUSICA",Subaru Outback
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
+
+#EXTINF:-1 group-title="MUSICA",Volkswagen GTI
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4
+
+#EXTINF:-1 group-title="INFANTIL",Sintel
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+#EXTINF:-1 group-title="INFANTIL",Tears of Steel
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
