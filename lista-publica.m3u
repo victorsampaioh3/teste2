@@ -1,40 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV AO VIVO",Canal HD Demo
+#EXTINF:-1 group-title="TV AO VIVO",Canal Demo Principal
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 group-title="TV AO VIVO",Canal 4K Demo
-https://test-streams.mux.dev/test_001/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO",Akamai Test Channel
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
-#EXTINF:-1 group-title="FILMES",Big Buck Bunny
-https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Apple BipBop
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
-#EXTINF:-1 group-title="FILMES",Big Buck Bunny HD
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Apple fMP4 Demo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
-#EXTINF:-1 group-title="FILMES",Elephants Dream
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:-1 group-title="FILMES",Becoming You
+https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS",For Bigger Blazes
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+#EXTINF:-1 group-title="FILMES",Tears of Steel
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS",For Bigger Escape
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscape.mp4
+#EXTINF:-1 group-title="ESPORTES",Skate Phantom Flex
+https://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",For Bigger Fun
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
+#EXTINF:-1 group-title="ESPORTES",Sintel HLS
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",For Bigger Joyrides
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+#EXTINF:-1 group-title="MUSICA",Canal Música Demo 1
+https://stream-akamai.castr.com/5b9352dbda7b8c769937e459/live_2361c920455111ea85db6911fe397b9e/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="MUSICA",Subaru Outback
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
-
-#EXTINF:-1 group-title="MUSICA",Volkswagen GTI
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4
-
-#EXTINF:-1 group-title="INFANTIL",Sintel
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-
-#EXTINF:-1 group-title="INFANTIL",Tears of Steel
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:-1 group-title="MUSICA",Canal Música Demo 2
+https://stream-fastly.castr.com/5b9352dbda7b8c769937e459/live_2361c920455111ea85db6911fe397b9e/index.fmp4.m3u8
